@@ -1,0 +1,19 @@
+# Daily AI News Summary
+
+Here is the summary of the AI news articles in markdown format:
+
+### Fri, 20 Jun 2025
+
+* **Meta Plans to Poach AI Startup Safe Superintelligence's CEO After Failed Buyout, Report Says** [https://www.investopedia.com/meta-and-oakley-are-launching-ai-powered-glasses-this-summer-11758359](https://www.investopedia.com/meta-and-oakley-are-launching-ai-powered-glasses-this-summer-11758359)
+* **AI Is Changing the Tech Job Market. Best Credit Cards** [https://www.businessinsider.com/tech-memo-ai-job-market-gen-z-computer-science-degree-2025-6](https://www.businessinsider.com/tech-memo-ai-job-market-gen-z-computer-science-degree-2025-6)
+* **Perplexity Rejects BBC's Legal Claims Over AI-Driven News Content Reuse** [https://www.pymnts.com/artificial-intelligence-2/2025/perplexity-rejects-bbcs-legal-claims-over-ai-driven-news-content-reuse/](https://www.pymnts.com/artificial-intelligence-2/2025/perplexity-rejects-bbcs-legal-claims-over-ai-driven-news-content-reuse/)
+* **Layer Health and Intermountain Health to Deploy AI for Clinical Data Abstraction** [https://hitconsultant.net/2025/06/20/layer-health-and-intermountain-health-to-deploy-ai-for-clinical-data-abstraction/](https://hitconsultant.net/2025/06/20/layer-health-and-intermountain-health-to-deploy-ai-for-clinical-data-abstraction/)
+* **IBM Combines Governance and Security Tools to Solve the AI Agent Oversight Crisis** [https://www.csoonline.com/article/4010085/ibm-combines-governance-and-security-tools-to-solve-the-ai-agent-oversight-crisis.html](https://www.csoonline.com/article/4010085/ibm-combines-governance-and-security-tools-to-solve-the-ai-agent-oversight-crisis.html)
+* **Agentic AI Banking - Fintech News** [https://www.fintechfutures.com/ai-in-fintech/agentic-banking-architecting-the-single-brain](https://www.fintechfutures.com/ai-in-fintech/agentic-banking-architecting-the-single-brain)
+* **After Trying to Buy Ilya Sutskever's $32B AI Startup, Meta Looks to Hire Its CEO** [https://techcrunch.com/2025/06/20/after-trying-to-buy-ilya-sutskevers-32b-ai-startup-meta-looks-to-hire-its-ceo/](https://techcrunch.com/2025/06/20/after-trying-to-buy-ilya-sutskevers-32b-ai-startup-meta-looks-to-hire-its-ceo/)
+* **NetGuardians and Intix Merge to Create Transaction Intelligence Firm Vyntra** [https://www.fintechfutures.com/regtech/netguardians-and-intix-merge-to-create-transaction-intelligence-firm-vyntra](https://www.fintechfutures.com/regtech/netguardians-and-intix-merge-to-create-transaction-intelligence-firm-vyntra)
+* **ICYMI Fintech Funding Round-up: Polar, Grifin, Tensec, and more** [https://www.fintechfutures.com/venture-capital-funding/icymi-fintech-funding-round-up-polar-grifin-tensec-and-more](https://www.fintechfutures.com/venture-capital-funding/icymi-fintech-funding-round-up-polar-grifin-tensec-and-more)
+* **BBC Threatens Legal Action Against AI Startup Over Content Scraping** [https://www.theguardian.com/media/2025/jun/20/bbc-threatens-legal-action-against-ai-startup-over-content-scraping](https://www.theguardian.com/media/2025/jun/20/bbc-threatens-legal-action-against-ai-startup-over-content-scraping)
+* **AI Breakthrough: Laser Pulses Through Ultra-Thin Glass Fibers Can Perform AI-Like Computations Thousands of Times Faster than Traditional Electronics** [http://www.sciencedaily.com/releases/2025/06/250619090855.htm](http://www.sciencedaily.com/releases/2025/06/250619090855.htm)
+* **Viasat Hacked by China, Washington Post Cyberattack, Crowhammer - SecurityWeek** [https://www.securityweek.com/in-other-news-viasat-hacked-by-china-washington-post-cyberattack-crowhammer/](https://www.securityweek.com/in-other-news-viasat-hacked-by-china-washington-post-cyberattack-crowhammer/)
+* **How Retirees Can Prepare for Stagflation** [https://www.forbes.com/sites/stevevernon/2025/06/19/how-retirees-can-prepare-for-stagflation/](https://www.forbes.com/sites/stevevernon/2025/06/19/how-retirees-can-prepare-for-stagflation/)
